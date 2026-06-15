@@ -1,0 +1,6 @@
+{
+  "name": "BizScout: AI Business Scraper",
+  "description": "Extract business data (Country, State, Category, Contact, Email) using AI-powered search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
